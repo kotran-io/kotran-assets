@@ -11,7 +11,7 @@
 </p>
 
 ## Introduction
-This provides public assets for Kotran repositories. 
+It provides public assets for Kotran repositories. 
 
 ## Contents
  * Images
